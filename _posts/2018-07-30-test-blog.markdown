@@ -8,3 +8,5 @@ title: Test Blog
 ## 测试
 
 Just for test.
+
+[百度](www.baidu.com)
